@@ -1,2 +1,6 @@
 # google-clone
-Clon de google elaborado con html y css
+**Clone de Goggle elaborado en el bootcamp de Tecnolochicas Pro 💻**
+
+## INTRO
+
+## ¿Qué construí?
